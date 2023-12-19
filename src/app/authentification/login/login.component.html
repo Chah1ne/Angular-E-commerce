@@ -1,0 +1,22 @@
+<div class="form-signin w-50 m-auto">
+  <form  (ngSubmit)="loginUser()">
+    <h3 class="h3 mb-3 font-weight-normal text-center">Login</h3>
+    <div class="mb-3">
+      <label>Email</label>
+      <div class="mb-3">
+          
+          <input type="text" class="form-control" id="email"  name = "email" placeholder="email" [(ngModel)]="email" >
+        </div>
+    </div>
+    <div class="mb-3">
+      <label>Password</label>
+      <div class="mb-3">
+          
+          <input type="text" class="form-control" id="password"  name = "password" placeholder="password" [(ngModel)]="password" >
+        </div>
+    </div>
+    <div class="d-grid">
+      <button type="submit" class="btn btn-primary">Sign in</button>
+    </div>
+  </form>
+</div>

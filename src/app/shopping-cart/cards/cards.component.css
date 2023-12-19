@@ -1,0 +1,50 @@
+/* Add this style block in your component file or a separate CSS file */
+
+.row.card-deck {
+    margin: 20px 0; /* Adjust the margin as needed */
+  }
+  
+  .card {
+    border: 1px solid  #161A30;
+     /* Add a border to the cards */
+    border-radius: 8px; /* Add border-radius for rounded corners */
+  }
+  
+  .card-header {
+    background-color:#B6BBC4; /* Light background color for the header */
+    padding: 10px;
+  }
+  
+  .card-img-top {
+    max-width: 100%; /* Ensure the image doesn't exceed the card width */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  .card-title {
+    margin-top: 10px; /* Add margin to the card title */
+  }
+  
+  .btn-primary {
+    width: 100%; /* Make the button full width */
+  }
+  
+  /* Add any additional styles as needed */
+  /* Add this style block in your component file or a separate CSS file */
+
+.btn-primary {
+    width: 100%; /* Make the button full width */
+    background-color:#161A30; /* Bootstrap primary color for the button background */
+    color: #fff; /* Text color for the button */
+    border: none; /* Remove the button border */
+    border-radius: 5px; /* Add border-radius for rounded corners */
+    padding: 10px; /* Add padding to the button */
+    cursor: pointer; /* Change cursor to pointer on hover */
+  }
+  
+  .btn-primary:disabled {
+    background-color:#f0b289; /* Bootstrap secondary color for disabled button background */
+    cursor: not-allowed; /* Change cursor to not-allowed for disabled button */
+  }
+  
+  /* Add any additional styles as needed */
+  

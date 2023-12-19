@@ -1,0 +1,80 @@
+/* Add this style block in your component's CSS file or in your global styles */
+
+.card-body {
+    background-color: #161A30;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 10px 8px rgba(61, 61, 61, 0.2);
+    overflow: hidden;
+  }
+  
+  .card:hover {
+    transform: scale(1.03); /* Slightly enlarge the card on hover */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  }
+  
+  .card-header {
+    background-color: #B6BBC4; /* Slightly darker red for the header */
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-title {
+    color: #fff;
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  li:hover {
+    transform: translateY(-5px); /* Move list items up on hover */
+  }
+  span{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+  }
+  input {
+    width: 100px;
+    padding: 9px;
+    margin-left: 10px;
+    border: 1px solid none;
+    border-radius: 8px ;
+     border-color: #d6955B;
+    transition: width 0.3s ease-in-out;
+  }
+  
+  input:hover {
+    width: 70px;
+  }
+  
+  .btn-light {
+    color:#d6955B ;
+    border: 1px solid none;
+    padding: 10px 15px;
+    margin-top: 15px;
+    display: block;
+    width: 100%;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out, transform 0.3s ease-in-out;
+  }
+  
+  .btn-light:hover {
+    background-color: #d6955B;
+    color: #fff;
+    transform: scale(1.05);
+  }
+  
