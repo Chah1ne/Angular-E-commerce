@@ -2,7 +2,7 @@
   "version": 2,
   "name": "angular-e-commerce-frontend",
   "builds": [
-    { "src": "dist/angular-e-commerce-frontend/**/*", "use": "@vercel/static" }
+    { "src": "index.html", "use": "@vercel/static" }
   ],
   "routes": [
     { "src": "/(.*)", "dest": "/index.html" }
