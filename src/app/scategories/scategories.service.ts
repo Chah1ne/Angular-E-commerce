@@ -9,7 +9,7 @@ import { catchError } from 'rxjs/operators';
 
 export class ScategoriesService {
 
-  private apiURL = 'http://localhost:3001/api'
+  private apiURL = 'https://angular-e-commerce-backend-amp2pl5la-chah1nes-projects.vercel.app/api'
 
     httpOptions = {
 

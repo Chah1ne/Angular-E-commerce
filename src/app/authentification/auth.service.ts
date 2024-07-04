@@ -8,7 +8,7 @@ import { Router } from '@angular/router';
   providedIn: 'root'
 })
 export class AuthService {
-  private baseurl="http://localhost:3001/api/users/"
+  private baseurl="https://angular-e-commerce-backend-amp2pl5la-chah1nes-projects.vercel.app/api/users/"
   constructor(private http: HttpClient, public router: Router) { }
 
   // Sign-up
