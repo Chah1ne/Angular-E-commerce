@@ -1,0 +1,6 @@
+![1](https://github.com/Chah1ne/Angular-E-commerce/assets/130062330/bcaf339a-8880-4c17-bbad-6cefef3ce69e)
+![2](https://github.com/Chah1ne/Angular-E-commerce/assets/130062330/7d136a07-cb27-4abf-b40d-64d90e0b0054)
+![3](https://github.com/Chah1ne/Angular-E-commerce/assets/130062330/10cbf004-a01b-4687-a464-a2283c4b970b)
+![4](https://github.com/Chah1ne/Angular-E-commerce/assets/130062330/a7252386-1d5b-4c4b-8998-f16d3d8a6b75)
+![5](https://github.com/Chah1ne/Angular-E-commerce/assets/130062330/bc2a0659-ec5b-45f1-abb0-0d663767c10c)
+![6](https://github.com/Chah1ne/Angular-E-commerce/assets/130062330/e8c8a8d8-bb27-4aee-bcfc-da8e541faca7)
