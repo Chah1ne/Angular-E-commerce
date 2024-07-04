@@ -11,7 +11,7 @@ import { Products } from './products';
 })
 export class ProductsService {
 
-  private apiURL = 'https://angular-e-commerce-backend-amp2pl5la-chah1nes-projects.vercel.app/api/'
+  private apiURL = 'http://localhost:3001/api'
 
 
 
