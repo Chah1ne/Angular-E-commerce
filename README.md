@@ -25,3 +25,26 @@ Contrôle complet sur les paramètres de sécurité, les options de paiement et 
 Objectif : Notre objectif est de créer une plateforme conviviale et sécurisée où les acheteurs peuvent trouver ce dont ils ont besoin et où les vendeurs peuvent développer leurs activités de manière efficace et transparente.
 
 Technologies Utilisées : Le site est construit avec des technologies modernes assurant une performance optimale et une expérience utilisateur fluide.
+
+
+
+----------------------------------------------------
+## Installation et démarrage du projet frontend
+
+Pour installer toutes les dépendances et lancer le projet frontend, veuillez suivre les étapes ci-dessous :
+
+1. Clonez le dépôt :
+   ```bash
+   git clone <URL_DU_DEPOT>
+
+
+Accédez au répertoire du projet :
+
+bash
+cd <NOM_DU_REPERTOIRE>
+
+Installez les dépendances nécessaires :
+npm install
+
+Lancez le projet :
+npm start
